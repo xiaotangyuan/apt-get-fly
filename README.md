@@ -1,2 +1,3 @@
 # apt-get-fly
- ubuntu  /etc/apt/sources.list  manager
+>>> [sudo] go run main.go
+将ubuntu默认的  /etc/apt/sources.list  替换为aliyuan的源
